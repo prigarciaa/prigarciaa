@@ -42,7 +42,7 @@
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priscila-garcia-485819187/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priscilagarciabackend/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/eu.prigarciaa/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/prigarciaa)  
 [![Email](https://img.shields.io/badge/-prigarcia620660@gmail.com-red?style=flat&logo=gmail)](mailto:prigarcia620660@gmail.com)

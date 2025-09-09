@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Priscila Garcia
 
 🎯 Estudante de Análise e Desenvolvimento de Sistemas - 2° semestre
-💻 Desenvolvedora em formação | Foco em Backend  
+💻 Desenvolvedora em formação | Foco em Backend e QA
 🔄 Em transição de carreira (ex-gerente comercial -> Tecnologia)  
 🌱 Aprendendo DevOps e boas práticas
 

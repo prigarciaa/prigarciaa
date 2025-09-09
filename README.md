@@ -1,11 +1,9 @@
 # 👋 Olá, eu sou a Priscila Garcia
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas  
+🎯 Estudante de Análise e Desenvolvimento de Sistemas - 2° semestre
 💻 Desenvolvedora em formação | Foco em Backend  
-🔄 Em transição de carreira (ex-gerente comercial)  
-🌱 Aprendendo DevOps e boas práticas  
-
-![Code Gif](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+🔄 Em transição de carreira (ex-gerente comercial -> Tecnologia)  
+🌱 Aprendendo DevOps e boas práticas
 
 ---
 
@@ -34,9 +32,19 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔁 **Super Trunfo em C** — lógica de comparação avançada entre países
-- ⚓ **Batalha Naval em C** — desafios com matrizes e áreas de ataque especiais
-- 🧠 **Simulador de movimentos de xadrez** — com recursividade e lógica complexa
+<i class="fi fi-ss-circle-small"></i>C & Lógica Avançada
+
+- 🔁 **Super Trunfo em C** - lógica de comparação avançada entre países
+- ⚓ **Batalha Naval em C** - desafios com matrizes e áreas de ataque especiais
+- 🧠 **Simulador de movimentos de xadrez** - com recursividade e lógica complexa
+  
+<i class="fi fi-ss-circle-small"></i>JavaScript, HTML & CSS
+
+- **E-commerce Clone do Mercado Livre** - listagem de produtos e layout inspirado no ML
+
+- **Verificador de Idade** - identifica idade com base no ano de nascimento
+
+- **Verificador de Hora do Dia** - altera mensagens e imagens de acordo com a hora atual
 
 ---
 
@@ -53,7 +61,7 @@
 
 - Amo resolver desafios de lógica e programação!
 - Aprendendo DevOps e boas práticas de versionamento com Git/GitHub
-- Buscando minha primeira vaga efetiva como Dev Backend
+- Buscando minha primeira vaga efetiva como Dev Backend ou QA
 
 ---
 

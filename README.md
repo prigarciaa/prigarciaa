@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Priscila Garcia
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas - 3° semestre
+🎯 Estudante de Análise e Desenvolvimento de Sistemas - 4° semestre
 
 💻 Desenvolvedora Backend Júnior em formação | Java • Spring Boot • APIs REST | QA
 
@@ -55,6 +55,10 @@
 🔹 Lógica de Programação (condições, laços, funções, arrays e algoritmos)
 
 📂 Projetos em destaque
+
+🔹 **Financeflow**
+API REST para controle financeiro desenvolvida com Spring Boot e PostgreSQL.
+👉 https://github.com/prigarciaa/financeflow
 
 🔹 **User Manager API**  
 API REST para gerenciamento de usuários em Java com Spring Boot, aplicando arquitetura em camadas, DTOs e boas práticas de backend.  
